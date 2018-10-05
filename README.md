@@ -1,5 +1,5 @@
 ## web_scraping
-scraping websites by categorys  
+scraping websites hypertext , text and devide them by categorys. 
 
 #import webdriver from selenium  
 from selenium import webdriver  
