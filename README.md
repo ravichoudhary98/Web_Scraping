@@ -10,5 +10,5 @@ from bs4 import BeautifulSoup
 #import sleep from time  
 from time import sleep  
 
-#import pandas as pd
-import pandas as pd
+#import pandas as pd  
+import pandas as pd  
