@@ -1,5 +1,5 @@
 ## web_scraping
-scrap websites hypertext , text and devide them by categorys stored in sitedata_enterprises.xls.  
+scrap websites hypertext , text and devide them by categorys and collect in sitedata_enterprises.xls.  
 
 #import webdriver from selenium  
 from selenium import webdriver  
